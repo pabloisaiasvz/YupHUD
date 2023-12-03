@@ -1,0 +1,7 @@
+#base	"scheme/fonts.res"
+#base	"scheme/fonts_icons.res"
+#base	"scheme/fonts_menu.res"
+#base	"scheme/colors.res"
+#base	"scheme/borders.res"
+#base   "scheme/fonts_crosshairs.res"
+#base	"clientscheme_base.res"
