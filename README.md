@@ -1,1 +1,3 @@
-All credits to Hypnotize, Whisker and everyone else who I steal ideas from
+CREDITS
+
+Inspiration: BudHUD, HypnotizeHUD and others
